@@ -1,10 +1,8 @@
-# Sales Dashboard Project Requirements
-
-A PDF version of this document is in [Project_Requirements.pdf](Project_Requirements.pdf).
+# Sales Dashboard Project Requirements 📋
 
 Build two dashboards in Tableau that help the stakeholders, the sales managers and the executives, analyze the sales performance and the customers.
 
-## Sales Dashboard
+## Sales Dashboard 📊
 
 ### Purpose
 Present an overview of the sales metrics and trends, to analyze the year-over-year sales performance and understand the sales trends.
@@ -17,7 +15,7 @@ Present an overview of the sales metrics and trends, to analyze the year-over-ye
 
 ---
 
-## Customer Dashboard
+## Customer Dashboard 📈
 
 ### Purpose
 Provide an overview of the customer data, trends and behaviors, so the marketing teams and the management understand the customer segments and improve customer satisfaction.
@@ -30,7 +28,7 @@ Provide an overview of the customer data, trends and behaviors, so the marketing
 
 ---
 
-## Design & Interactivity (both dashboards)
+## Design & Interactivity (both dashboards) 🎨
 
 ### Dashboard Dynamic
 - Let the users check the historical data by selecting any year.
