@@ -38,3 +38,10 @@ Provide an overview of the customer data, trends and behaviors, so the marketing
 ### Data Filters
 - **Product**: category and subcategory.
 - **Location**: region, state and city.
+
+## About Me 🌟 
+Hi, I'm Marc Marciel an IT graduate and Data Analyst with a strong interest in using data to solve business problems and support better decision-making.
+
+Through hands-on projects, I apply SQL and analytical techniques to clean, explore, and interpret complex datasets, identify meaningful trends, and transform raw information into clear, actionable insights.
+
+My portfolio reflects my continued growth in data analytics, technical problem-solving, and business-focused analysis. Each project is designed not only to strengthen my technical skills, but also to demonstrate how data can be used to answer important questions, improve processes, and create measurable value.
